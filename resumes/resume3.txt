@@ -1,0 +1,15 @@
+Name: Amit Patel
+Email: amit@gmail.com
+
+Skills:
+Python, Machine Learning, Data Analysis
+
+Experience:
+3 years as ML Engineer
+
+Projects:
+- Prediction model using Scikit-learn
+- NLP chatbot
+
+Education:
+B.Tech in AI

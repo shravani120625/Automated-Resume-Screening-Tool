@@ -1,0 +1,14 @@
+Name: Neha Singh
+Email: neha@gmail.com
+
+Skills:
+Communication, MS Word, Basic Excel
+
+Experience:
+Fresher
+
+Projects:
+- College presentation
+
+Education:
+BA

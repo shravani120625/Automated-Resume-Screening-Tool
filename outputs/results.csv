@@ -1,0 +1,6 @@
+Resume,Score,Skills,Decision
+resume1.txt,0.349,"['python', 'sql', 'excel', 'power bi', 'machine learning']",Shortlisted
+resume2.txt,0.203,"['excel', 'power bi']",Shortlisted
+resume3.txt,0.142,"['python', 'machine learning']",Rejected
+resume4.txt,0.058,['excel'],Rejected
+resume5.txt,0.031,['sql'],Rejected

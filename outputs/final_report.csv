@@ -1,0 +1,6 @@
+Resume,Similarity Score,Skill Score,Experience (Years),Final Score,Skills,Missing Skills,Decision,Reason,Gap,Rank
+resume1.txt,0.434,1.0,2.5,0.717,"['python', 'sql', 'excel', 'power bi', 'machine learning']",[],Shortlisted,"5/5 skills matched, 2.5 yrs experience",No skill gaps,1
+resume3.txt,0.119,0.4,3.0,0.38,"['python', 'machine learning']",['sql'],Rejected,"2/5 skills matched, 3.0 yrs experience",Missing 1 skills: ['sql'],2
+resume2.txt,0.265,0.4,1.0,0.352,"['excel', 'power bi']","['python', 'sql']",Rejected,"2/5 skills matched, 1.0 yrs experience","Missing 2 skills: ['python', 'sql']",3
+resume5.txt,0.048,0.2,2.0,0.284,['sql'],['python'],Rejected,"1/5 skills matched, 2.0 yrs experience",Missing 1 skills: ['python'],4
+resume4.txt,0.056,0.2,0.0,0.088,['excel'],"['python', 'sql']",Rejected,"1/5 skills matched, 0 yrs experience","Missing 2 skills: ['python', 'sql']",5

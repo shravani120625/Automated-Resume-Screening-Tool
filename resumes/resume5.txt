@@ -1,0 +1,14 @@
+Name: Arjun Mehta
+Email: arjun@gmail.com
+
+Skills:
+Java, Spring Boot, MySQL
+
+Experience:
+2 years as Backend Developer
+
+Projects:
+- E-commerce backend system
+
+Education:
+B.Tech IT
