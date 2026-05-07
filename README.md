@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ````md
 1. AI Resume Screening System
 
@@ -290,3 +291,7 @@ SOFTWARE.
 
 ```
 ```
+=======
+# Automated-Resume-Screening-Tool
+AI-powered Automated Resume Screening System using FastAPI + Next.js that evaluates, ranks, and visualizes candidate resumes based on job requirements using NLP-based scoring and analytics dashboard.
+>>>>>>> 78a868ea7ee660134b553e483e4e4c61e04dc5f5
