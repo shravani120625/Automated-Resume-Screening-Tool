@@ -1,2 +1,0 @@
-Python developer with 3 years experience in SQL and machine learning.
-Worked on FastAPI and data projects.
