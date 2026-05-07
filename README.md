@@ -233,16 +233,16 @@ http://localhost:3000
 10. Screenshots
 
 Dashboard
-![Dashboard](<a. Dashboard.png>)
-![Job Create](<b. Job Description.png>)
-![upload and result](<c. Upload.png>)
+![image](<a. Dashboard.png>)
+![image](<b. Job Description.png>)
+![image](<c. Upload.png>)
 
 Analytics
 
-![analytics](<d. Analytics.png>)
+![image](<d. Analytics.png>)
 
 Leaderboard
-![alt text](<e. Shortlisted Table.png>) ![alt text](<f. csv and search.png>)
+![image](<e. Shortlisted Table.png>) ![image](<f. csv and search.png>)
 
 
 11. Future Enhancements
